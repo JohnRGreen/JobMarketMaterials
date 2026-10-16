@@ -12,11 +12,11 @@ title: Academic materials
 
 ## Presentations
 
-- [Measurement Error in Subjective Beliefs](talks/MeasurementErrorBeliefs.pdf)
-- [Labor Supply, Social Welfare, and the Great MTR Pivot in U.S. Tax and Transfer Programs](talks/MTRPivot.pdf)
-- [Can Workforce Training Soften the Scarring Effect?](talks/WorkforceTraining.pdf)
+- [Measurement Error in Subjective Beliefs](presentations/MeasurementErrorBeliefs.pdf)
+- [Labor Supply, Social Welfare, and the Great MTR Pivot in U.S. Tax and Transfer Programs](presentations/MTRPivot.pdf)
+- [Can Workforce Training Soften the Scarring Effect?](presentations/WorkforceTraining.pdf)
 
 ## Misc.
 
-- [Curriculum vitae](cv.pdf)
+- [Curriculum vitae](CV.pdf)
 - [Beliefs and Preferences in Community College](JobMarketPaper.pdf) (Job Market Paper)
